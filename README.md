@@ -3,7 +3,7 @@ My personal neovim dotfile
 # Installaion
 ```bash
 sudo pacman -S git
-git clone https://github.com/PIXL2x/Neovim-dotfile
+git clone https://github.com/kade704/Neovim-dotfile
 mv ./Neovim-dotfile ~/.config/nvim
 ```
 
