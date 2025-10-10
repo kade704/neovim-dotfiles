@@ -2,19 +2,16 @@ My personal neovim dotfile
 
 # Installaion
 ```bash
-sudo pacman -S git
-git clone https://github.com/kade704/Neovim-dotfile
-mv ./Neovim-dotfile ~/.config/nvim
+git clone https://github.com/kade704/Neovim-dotfile ~/.config/nvim
+rm -rf ~/.config/nvim/.git
 ```
 
 # Plugin list
 ```
-nvim-cmp
+blink
 gruvbox
 lspconfig
 lualine
-oil
 scrollbar
-toggleterm
 treesitter
 ```
