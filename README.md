@@ -2,7 +2,7 @@ My personal neovim dotfile
 
 # Installaion
 ```bash
-git clone https://github.com/kade704/Neovim-dotfile ~/.config/nvim
+git clone https://github.com/kade704/neovim_dotfiles ~/.config/nvim
 rm -rf ~/.config/nvim/.git
 ```
 
